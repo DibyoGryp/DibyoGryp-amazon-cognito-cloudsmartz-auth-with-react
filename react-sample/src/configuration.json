@@ -1,0 +1,8 @@
+{
+    "bucketName": "anycompany-bucket-1724834956619",
+    "apiGatewayUrl": "https://cr4vuu80s6.execute-api.us-east-1.amazonaws.com/Prod/pets",
+    "clientId": "7eru486mvrh5scuo5i9tq1mgo",
+    "identityPoolId": "us-east-1:61017cf0-ea4a-4103-94ed-9432331a334e",
+    "region": "us-east-1",
+    "userPoolId": "us-east-1_A46lcdDYy"
+}
